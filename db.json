@@ -1,12 +1,180 @@
 {
 	"users": [
 		{
-			"id": 1,
-			"name": "Jessie"
+			"id": "254b928c-df42-4702-a771-f05d7d97bb9e",
+			"name": "Jessie",
+			"profile_url": "https://assets.teenvogue.com/photos/5734d6ada57ac7fa6b49a234/master/w_2529,h_3000,c_limit/debby-ryan-03.jpg"
 		},
 		{
-			"id": 2,
-			"name": "Develliers"
+			"id": "298b7568-c079-4e84-90ae-56b7766fcd22",
+			"name": "AB Devilliers",
+			"profile_url": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg"
+		}
+	],
+
+	"authors": [
+		{
+			"id": "7711ef6a-9ae7-4db2-ac10-97fe0339ca2c",
+			"name": "Jane Austen",
+			"follower_count": "2024",
+			"description": "Jane Austen was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage in the pursuit of favourable social standing and economic security."
+		},
+		{
+			"id": "a47e4e06-c439-4dcf-b371-11c23c2db06c",
+			"name": "Joe Pearson",
+			"follower_count": "1902",
+			"description": "Peter was the 2016 recipient of the American Chemical Society's Grady Stack Award for science journalism. Julio de Paula is Professor of Chemistry, Lewis & Clark College."
+		},
+		{
+			"id": "5c10146e-5925-4736-90cd-0559120099f4",
+			"name": "JD Lee",
+			"follower_count": "8046",
+			"description": "JD Lee was the 2014 recipient of the American Chemical Society's Grady Stack Award for science journalism. Julio de Paula is Professor of Chemistry, Lewis & Clark College."
+		}
+	],
+
+	"books": [
+		{
+			"id": "6f1ecfe6-0334-4875-9496-ae382716fcaa",
+			"title": "Pride and Prejudice",
+			"author_id": "7711ef6a-9ae7-4db2-ac10-97fe0339ca2c",
+			"topic_id": "4d051df6-38e5-4fff-8b9e-89f646456bce",
+			"description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work \"her own darling child\" and its vivacious heroine, Elizabeth Bennet, \"as delightful a creature as ever appeared in print.\" The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+			"release_date": "",
+			"img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885.jpg",
+			"total_pages": "200",
+			"average_rating": 4.0
+		},
+		{
+			"id": "2e0018a3-11b8-49c1-bd32-631cc53dd244",
+			"title": "Inorganic Chemistry",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "5c10146e-5925-4736-90cd-0559120099f4",
+			"average_rating": 4.5,
+			"reviewer_count": "1,204",
+			"img_url": "https://assets.theickabog.com/wp-content/uploads/2020/07/Ickabog_Homepage_Hero_US.jpg",
+			"topic_id": "026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "250"
+		},
+		{
+			"id": "9fbc8678-dca5-4aa7-8018-a0e08ae35eea",
+			"title": "Consice Inorganic Chemistry",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "5c10146e-5925-4736-90cd-0559120099f4",
+			"average_rating": 4,
+			"reviewer_count": "512",
+			"img_url": "https://www.thebalance.com/thmb/w4syTJBkKMI7QDfXQPee3boybtU=/683x512/smart/filters:no_upscale()/ScreenShot2019-10-14at9.34.06AM-757b2b342fd448b88804abe6c96e122a.png",
+			"topic_id":"026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "300"
+		},
+		{
+			"id": "15f0c0ba-f6dd-4883-b57b-0a81cd9599d3",
+			"title": "Inorganic Chemistry",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "5c10146e-5925-4736-90cd-0559120099f4",
+			"average_rating": 3.5,
+			"reviewer_count": "642",
+			"img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582084217l/51700803.jpg",
+			"topic_id":"026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "350"
+		},
+		{
+			"id": "12a42f5c-3328-464a-a47f-efef89eef0fa",
+			"title": "Inorganic Chemistry",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "5c10146e-5925-4736-90cd-0559120099f4",
+			"average_rating": 4.2,
+			"reviewer_count": "746",
+			"img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586906372l/52013743._SX98_.jpg",
+			"topic_id":"026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "400"
+		},
+		{
+			"id": "dc581fe5-ba9a-4a21-8a3b-b728be0412ec",
+			"title": "Nature Chemistry",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "5c10146e-5925-4736-90cd-0559120099f4",
+			"average_rating": 4.6,
+			"reviewer_count": "876",
+			"img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579708868l/45916267._SY475_.jpg",
+			"topic_id":"026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "450"
+		},
+		{
+			"id": "88e0c882-1e3c-42aa-a7df-a49e18216e42",
+			"title": "Chemical Principles",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "a47e4e06-c439-4dcf-b371-11c23c2db06c",
+			"average_rating": 4.7,
+			"reviewer_count": "1412",
+			"img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591526359l/50403757.jpg",
+			"topic_id":"026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "500"
+		},
+		{
+			"id": "2743045d-6709-4d74-be91-fd6242e0bf69",
+			"title": "Organic Chemistry",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "a47e4e06-c439-4dcf-b371-11c23c2db06c",
+			"average_rating": 2.5,
+			"reviewer_count": "1608",
+			"img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544963815l/34890015._SY475_.jpg",
+			"topic_id":"026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "550"
+		},
+		{
+			"id": "0955b5a5-1e57-43eb-9fa9-98c348688d92",
+			"title": "Crystal Chemistry",
+			"description": "Nature chemistry deals with different biocatalytic approaches to transform phenols by adding different neurons",
+			"release_date": "",
+			"author_id": "a47e4e06-c439-4dcf-b371-11c23c2db06c",
+			"average_rating": 2.5,
+			"reviewer_count": "1264",
+			"img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487381119l/34330645._SY475_.jpg",
+			"topic_id":"026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"total_pages": "600"
+		}
+	],
+
+	"topics": [
+		{
+			"id": "026de4a1-4c0c-4fb6-8399-5f1bf5e3b378",
+			"name": "Chemistry"
+		},
+		{
+			"id": "2295f7e4-55ac-4994-862d-d75a7980a45f",
+			"name": "Physics"
+		},
+		{
+			"id": "4d051df6-38e5-4fff-8b9e-89f646456bce",
+			"name": "Comedy"
+		}
+	],
+
+	"reviews": [
+		{
+			"id": "efb6ef30-392b-4bff-9a90-0f6a362719ac",
+			"user_id": "254b928c-df42-4702-a771-f05d7d97bb9e",
+			"book_id": "6f1ecfe6-0334-4875-9496-ae382716fcaa",
+			"rating": 4.0,
+			"comment": "Still a very nice Book, I got stuck at a place where I thought the problem was overprinting, or rather someone told me it was that. but it as simply just a mistake where I accidentally had set the box object."
+		}
+	],
+
+	"bookStatus": [
+		{
+			"id": "4d6d5154-64f3-4ca6-8e3b-19c7192adda2",
+			"book_id": "6f1ecfe6-0334-4875-9496-ae382716fcaa",
+			"user_id": "254b928c-df42-4702-a771-f05d7d97bb9e",
+			"status": "Start Reading",
+			"is_bookmarked": true
 		}
 	]
 }
