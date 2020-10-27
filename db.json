@@ -156,25 +156,5 @@
 			"id": "4d051df6-38e5-4fff-8b9e-89f646456bce",
 			"name": "Comedy"
 		}
-	],
-
-	"reviews": [
-		{
-			"id": "efb6ef30-392b-4bff-9a90-0f6a362719ac",
-			"user_id": "254b928c-df42-4702-a771-f05d7d97bb9e",
-			"book_id": "6f1ecfe6-0334-4875-9496-ae382716fcaa",
-			"rating": 4.0,
-			"comment": "Still a very nice Book, I got stuck at a place where I thought the problem was overprinting, or rather someone told me it was that. but it as simply just a mistake where I accidentally had set the box object."
-		}
-	],
-
-	"bookStatus": [
-		{
-			"id": "4d6d5154-64f3-4ca6-8e3b-19c7192adda2",
-			"book_id": "6f1ecfe6-0334-4875-9496-ae382716fcaa",
-			"user_id": "254b928c-df42-4702-a771-f05d7d97bb9e",
-			"status": "Start Reading",
-			"is_bookmarked": true
-		}
 	]
 }
